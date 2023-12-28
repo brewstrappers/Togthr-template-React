@@ -257,36 +257,30 @@ new BlazeSlider(el, {
               </p>
             </div>
           </div>
-          <div className="home-testimonial"></div>
         </div>
       </section>
       <section className="home-get-started">
-        <div className="home-header-container2">
-          <div className="home-header09">
-            <h2 className="home-heading7">
-              Dwonload Brewstrappers from App Store Or Play Store and discover
-              Hundreds of Handmade Cultural Items
-            </h2>
-          </div>
-          <div className="home-button">
-            <button className="home-button1 button">
-              <span>Download</span>
-            </button>
-          </div>
-        </div>
+        <h2 className="home-heading7">
+          Download Brewstrappers from App Store Or Play Store and discover
+          Hundreds of Handmade Cultural Items
+        </h2>
         <img
           alt="image"
           src="https://drive.google.com/uc?export=view&amp;id=1xPGvy4zNnvUcpnDK3Jxn0m9eHuape3YV"
           className="home-image5"
         />
+        <button className="home-button button">
+          <span>Download</span>
+        </button>
       </section>
       <section className="home-create">
         <div className="home-content5">
-          <div className="home-header10">
+          <div className="home-header09">
             <h2 className="home-heading8">
-              <span className="home-text20">Discover the world&apos;s </span>
+              <span>Discover the world&apos;s </span>
               <span className="home-text21">magic cultures</span>
-              <span className="home-text22"> now!</span>
+              <span className="home-text22"> </span>
+              <span>now!</span>
               <br></br>
             </h2>
           </div>
@@ -301,7 +295,7 @@ new BlazeSlider(el, {
                 src="/external/1-removebg-preview-400w.png"
                 className="home-image6"
               />
-              <span className="home-text24">
+              <span className="home-text25">
                 Embark on a journey to acquire authentic and handmade creations
                 directly from skilled artists and creators worldwide
                 <span
@@ -313,7 +307,7 @@ new BlazeSlider(el, {
             </div>
             <div className="home-links">
               <div className="home-column">
-                <span className="home-header11">Contact</span>
+                <span className="home-header10">Contact</span>
                 <div className="home-list">
                   <Link to="/" className="home-navlink">
                     Info@brewstrappers.com
@@ -323,7 +317,7 @@ new BlazeSlider(el, {
             </div>
           </div>
           <div className="home-bottom">
-            <span className="home-text25">
+            <span className="home-text26">
               © 2024 Brewstrappers- All rights reserved
             </span>
           </div>
